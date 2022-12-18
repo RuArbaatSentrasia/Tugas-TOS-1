@@ -1,5 +1,6 @@
 Rencana bisnis penjualan beberapa macam merek mobil
-Daihatsu
+Audi
 Toyota
 Hyundai
 Mitsubishi
+NISSAN
